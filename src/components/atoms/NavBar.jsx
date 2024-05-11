@@ -1,4 +1,4 @@
-import logo from "../assets/images/logo-fetchDEVS.png";
+import logo from "../../assets/images/logo-fetchDEVS.png";
 
 const NavBar = () => {
   return (

@@ -1,11 +1,13 @@
-import Hero from "./components/Hero";
-import NavBar from "./components/NavBar";
+import Hero from "./components/atoms/Hero";
+import NavBar from "./components/atoms/NavBar";
+import HomeCards from "./components/molecules/HomeCards";
 
 const App = () => {
   return (
     <>
       <NavBar />
-      <Hero title="" subtitle="" />
+      <Hero />
+      <HomeCards />
     </>
   );
 };
