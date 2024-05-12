@@ -12,7 +12,7 @@ const HomeCards = () => {
             </p>
             <a
               href="/jobs.html"
-              className="inline-block bg-cyan-900 text-white rounded-lg px-4 py-2 hover:bg-gray-700"
+              className="inline-block bg-cyan-900 text-white rounded-lg px-4 py-2 hover:bg-cyan-700"
             >
               Browse Jobs
             </a>
@@ -24,7 +24,7 @@ const HomeCards = () => {
             </p>
             <a
               href="/add-job.html"
-              className="inline-block bg-teal-900 text-white rounded-lg px-4 py-2 hover:bg-indigo-600"
+              className="inline-block bg-teal-900 text-white rounded-lg px-4 py-2 hover:bg-teal-700"
             >
               Add Job
             </a>
